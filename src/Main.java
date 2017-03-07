@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args){
         System.out.println("Tekst na probe");
         System.out.println("Tekst na probe 2");
+        System.out.println("Tekst na probe 3");
     }
 
 }
